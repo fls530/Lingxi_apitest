@@ -2,7 +2,7 @@ import time
 import unittest
 from common.handle_logging import log
 from common.handle_path import CASE_DIR, REPORT_DIR
-from common. import DingTalkSend, ReportData
+from common.qiyeweixin_bot import DingTalkSend, ReportData
 from common.handle_config import conf
 
 

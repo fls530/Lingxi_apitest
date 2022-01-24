@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179c33fe-1030-40bc-a86d-78f6ba2e1785" name="变更" comment="code">
-      <change afterPath="$PROJECT_DIR$/common/handle_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/handle_logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/handle_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/myddt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/qiyeweixin-bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/qiyeweixin-bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/handle_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/handle_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/handle_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/handle_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/handle_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/handle_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/handle_logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/handle_logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/handle_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/handle_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/qiyeweixin-bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/qiyeweixin_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/conf/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643017405164</updated>
       <workItem from="1643017406513" duration="13000" />
-      <workItem from="1643017576173" duration="2711000" />
+      <workItem from="1643017576173" duration="3742000" />
     </task>
     <task id="LOCAL-00001" summary="code">
       <created>1643030483401</created>
@@ -87,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643030483401</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="code">
+      <created>1643031455266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643031455266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
