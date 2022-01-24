@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179c33fe-1030-40bc-a86d-78f6ba2e1785" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/handle_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/handle_data.py" afterDir="false" />
+    <list default="true" id="179c33fe-1030-40bc-a86d-78f6ba2e1785" name="变更" comment="code">
+      <change afterPath="$PROJECT_DIR$/common/handle_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/handle_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/handle_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/myddt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/qiyeweixin-bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/qiyeweixin-bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +78,16 @@
       <option name="presentableId" value="Default" />
       <updated>1643017405164</updated>
       <workItem from="1643017406513" duration="13000" />
-      <workItem from="1643017576173" duration="1776000" />
+      <workItem from="1643017576173" duration="2711000" />
     </task>
+    <task id="LOCAL-00001" summary="code">
+      <created>1643030483401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643030483401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code" />
+    <option name="LAST_COMMIT_MESSAGE" value="code" />
   </component>
 </project>
