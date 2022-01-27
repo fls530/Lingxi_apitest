@@ -33,3 +33,18 @@ def replace_data(data):
             value = getattr(EnvData, item)
         data = data.replace(key, value)
     return data
+
+
+def login():
+    method = 'post'
+    headers = {"authorization": "Basic bHhfb3BlcmF0aW9uOmx4X29wZXJhdGlvbl9zZWNyZXQ="}
+    url = 'https://xha.lingxitest.com/api/lx-operation/lingxi-auth/oauth/token'
+    data = {"tenantId": "000000",
+            "username": conf.get("test_data", "username"),
+            "password": conf.get("test_data", "password"),
+            "grant_type": "password",
+            "scope": "all",
+            "type": "account"}
+    token = ((request(url=url, method=method, data=data, headers=headers)).json())['access_token']
+
+    return token
