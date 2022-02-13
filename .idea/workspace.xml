@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179c33fe-1030-40bc-a86d-78f6ba2e1785" name="变更" comment="1.登出用例&#10;2.角色操作用例">
+    <list default="true" id="179c33fe-1030-40bc-a86d-78f6ba2e1785" name="变更" comment="角色管理测试用例">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/handle_role.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/handle_role.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +199,7 @@
       <workItem from="1644568788043" duration="3590000" />
       <workItem from="1644589009469" duration="751000" />
       <workItem from="1644589859711" duration="869000" />
-      <workItem from="1644715833393" duration="9863000" />
+      <workItem from="1644715833393" duration="11051000" />
     </task>
     <task id="LOCAL-00001" summary="code">
       <created>1643030483401</created>
@@ -258,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644750958879</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="角色管理测试用例">
+      <created>1644753040618</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644753040618</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +285,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="code" />
     <MESSAGE value="1.登出用例&#10;2.角色操作用例" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.登出用例&#10;2.角色操作用例" />
+    <MESSAGE value="角色管理测试用例" />
+    <option name="LAST_COMMIT_MESSAGE" value="角色管理测试用例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
