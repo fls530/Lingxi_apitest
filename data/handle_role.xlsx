@@ -1,0 +1,5 @@
+case_id	interface	title	method	url	data	expected	result
+1	loans	获取成功:不填参数	get	/api/lingxi-system/role/list	{}	"{'code': 200, 'msg': 'OK',""len"":10}"	通过
+2	loans	获取成功:只填页面参数	get	/api/lingxi-system/role/list	{"current":1}	"{'code': 0, 'msg': 'OK',""len"":10}"	通过
+3	loans	获取成功:只填页面内容数	get	/api/lingxi-system/role/list	{"size":20}	"{'code': 0, 'msg': 'OK',""len"":20}"	通过
+4	loans	获取成功:都填参数	get	/api/lingxi-system/role/list	"{""current"":1,""size"":20}"	"{'code': 0, 'msg': 'OK',""len"":20}"	通过
