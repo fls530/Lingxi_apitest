@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179c33fe-1030-40bc-a86d-78f6ba2e1785" name="变更" comment="code">
-      <change afterPath="$PROJECT_DIR$/data/handle_role.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/login.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/all.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_01login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_02handle_role.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/handle_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/handle_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/conf/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/apitestcase.xlsx" beforeDir="false" />
-    </list>
+    <list default="true" id="179c33fe-1030-40bc-a86d-78f6ba2e1785" name="变更" comment="1.登出用例&#10;2.角色操作用例" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Romens_apitest" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -207,7 +197,7 @@
       <workItem from="1644568788043" duration="3590000" />
       <workItem from="1644589009469" duration="751000" />
       <workItem from="1644589859711" duration="869000" />
-      <workItem from="1644715833393" duration="7242000" />
+      <workItem from="1644715833393" duration="7627000" />
     </task>
     <task id="LOCAL-00001" summary="code">
       <created>1643030483401</created>
@@ -237,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643268272915</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1.登出用例&#10;2.角色操作用例">
+      <created>1644749283538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644749283539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +254,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="code" />
-    <option name="LAST_COMMIT_MESSAGE" value="code" />
+    <MESSAGE value="1.登出用例&#10;2.角色操作用例" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.登出用例&#10;2.角色操作用例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
